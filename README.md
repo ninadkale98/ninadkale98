@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ninad Kale
 - 👀 I’m interested in Robitics with major focus on Machine Learning, System and Controls
-- 🌱 I’m currently learning working in Honeywell India
 - 📫 How to reach me -> ninadkale98@gmail.com
 
 <!---
